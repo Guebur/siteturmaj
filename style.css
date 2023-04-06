@@ -11,3 +11,7 @@ body { /*mudando a formatação do corpo do htl*/
     height: 140;
     border-radius: 600px;
     display: inline;
+}
+.cabecalho__titulo_site{
+    display: inline;
+}
