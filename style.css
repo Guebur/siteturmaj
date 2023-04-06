@@ -15,3 +15,6 @@ body { /*mudando a formatação do corpo do htl*/
 .cabecalho__titulo_site{
     display: inline;
 }
+.cabecalho__quebra{
+    display: inline;
+}
