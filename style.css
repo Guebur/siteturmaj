@@ -8,5 +8,5 @@ body { /*mudando a formatação do corpo do htl*/
 .cabecalho__imagem{
     width: 155;
     height: 140;
-    border-radius: 600;
+    border-radius: 600px;
 }
