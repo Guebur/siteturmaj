@@ -11,3 +11,6 @@ body { /*mudando a formatação do corpo do htl*/
     height: 140;
     border-radius: 600px;
 }
+.cabecalho__titulo_menu{
+    display: inline;
+}
