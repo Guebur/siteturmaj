@@ -10,7 +10,4 @@ body { /*mudando a formatação do corpo do htl*/
     width: 155;
     height: 140;
     border-radius: 600px;
-}
-.cabecalho__titulo{
     display: inline;
-}
